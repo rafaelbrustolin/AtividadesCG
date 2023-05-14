@@ -22,4 +22,7 @@
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="RESULT.md" />
+  </ItemGroup>
 </Project>
