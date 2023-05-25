@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\I508464\source\repos\M2 Desafio - Rafael Brustolin\M2 Desafio - Rafael Brustolin\Source.cpp(144,24): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\I508464\source\repos\M2 Desafio - Rafael Brustolin\M2 Desafio - Rafael Brustolin\Source.cpp(150,24): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\I508464\source\repos\M2 Desafio - Rafael Brustolin\M2 Desafio - Rafael Brustolin\Source.cpp(156,24): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\I508464\source\repos\M2 Desafio - Rafael Brustolin\M2 Desafio - Rafael Brustolin\Source.cpp(162,24): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\I508464\source\repos\M2 Desafio - Rafael Brustolin\M2 Desafio - Rafael Brustolin\Source.cpp(168,24): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\I508464\source\repos\M2 Desafio - Rafael Brustolin\M2 Desafio - Rafael Brustolin\Source.cpp(174,24): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\I508464\source\repos\M2 Desafio - Rafael Brustolin\M2 Desafio - Rafael Brustolin\Source.cpp(196,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\I508464\source\repos\M2 Desafio - Rafael Brustolin\M2 Desafio - Rafael Brustolin\Source.cpp(203,26): warning C4305: '-=': truncation from 'double' to 'float'
+  M2 Desafio - Rafael Brustolin.vcxproj -> C:\Users\I508464\source\repos\M2 Desafio - Rafael Brustolin\x64\Debug\M2 Desafio - Rafael Brustolin.exe

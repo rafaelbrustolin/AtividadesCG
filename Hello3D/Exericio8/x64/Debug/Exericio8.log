@@ -1,2 +1,6 @@
-﻿  Origem.cpp
-  Exericio8.vcxproj -> C:\Users\I508464\Documents\GitHub\AtividadesCG\Hello3D\x64\Debug\Hello3D.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Hello3D.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  glad.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\I508464\vcpkg\installed\x64-windows\include\glad\glad.h(32,1): message : see previous definition of 'APIENTRY'
+  Origem.cpp
+  Exericio8.vcxproj -> C:\Users\I508464\Documents\GitHub\AtividadesCG\Hello3D\x64\Debug\M2 Desafio -  Rafael Brustolin.exe
