@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\I508464\source\repos\M3 computação gráfica\M3 computação gráfica\Source.cpp(38,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\I508464\source\repos\M3 computação gráfica\M3 computação gráfica\Source.cpp(175,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  M3 computação gráfica.vcxproj -> C:\Users\I508464\source\repos\M3 computação gráfica\x64\Debug\M3 computação gráfica.exe
