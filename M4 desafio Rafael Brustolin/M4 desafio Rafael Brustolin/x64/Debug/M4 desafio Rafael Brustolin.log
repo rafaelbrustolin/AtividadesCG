@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\I508464\source\repos\M4 desafio Rafael Brustolin\M4 desafio Rafael Brustolin\Source.cpp(33,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\I508464\source\repos\M4 desafio Rafael Brustolin\M4 desafio Rafael Brustolin\Source.cpp(185,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\I508464\source\repos\M4 desafio Rafael Brustolin\M4 desafio Rafael Brustolin\Source.cpp(282,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\I508464\source\repos\M4 desafio Rafael Brustolin\M4 desafio Rafael Brustolin\Source.cpp(286,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\I508464\source\repos\M4 desafio Rafael Brustolin\M4 desafio Rafael Brustolin\Source.cpp(289,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  M4 desafio Rafael Brustolin.vcxproj -> C:\Users\I508464\source\repos\M4 desafio Rafael Brustolin\x64\Debug\M4 desafio Rafael Brustolin.exe
