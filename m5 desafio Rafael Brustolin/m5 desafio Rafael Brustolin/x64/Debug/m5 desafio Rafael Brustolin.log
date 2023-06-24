@@ -1,0 +1,16 @@
+﻿  Camera.cpp
+C:\Users\I508464\Documents\GitHub\AtividadesCG\m5 desafio Rafael Brustolin\m5 desafio Rafael Brustolin\Camera.cpp(33,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\I508464\Documents\GitHub\AtividadesCG\m5 desafio Rafael Brustolin\m5 desafio Rafael Brustolin\Camera.cpp(34,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\I508464\Documents\GitHub\AtividadesCG\m5 desafio Rafael Brustolin\m5 desafio Rafael Brustolin\Camera.cpp(37,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\I508464\Documents\GitHub\AtividadesCG\m5 desafio Rafael Brustolin\m5 desafio Rafael Brustolin\Camera.cpp(38,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\I508464\Documents\GitHub\AtividadesCG\m5 desafio Rafael Brustolin\m5 desafio Rafael Brustolin\Camera.cpp(40,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\I508464\Documents\GitHub\AtividadesCG\m5 desafio Rafael Brustolin\m5 desafio Rafael Brustolin\Camera.cpp(41,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\I508464\Documents\GitHub\AtividadesCG\m5 desafio Rafael Brustolin\m5 desafio Rafael Brustolin\Camera.cpp(67,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Source.cpp
+C:\Users\I508464\Documents\GitHub\AtividadesCG\m5 desafio Rafael Brustolin\m5 desafio Rafael Brustolin\Source.cpp(34,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\I508464\Documents\GitHub\AtividadesCG\m5 desafio Rafael Brustolin\m5 desafio Rafael Brustolin\Source.cpp(186,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\I508464\Documents\GitHub\AtividadesCG\m5 desafio Rafael Brustolin\m5 desafio Rafael Brustolin\Source.cpp(290,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\I508464\Documents\GitHub\AtividadesCG\m5 desafio Rafael Brustolin\m5 desafio Rafael Brustolin\Source.cpp(294,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\I508464\Documents\GitHub\AtividadesCG\m5 desafio Rafael Brustolin\m5 desafio Rafael Brustolin\Source.cpp(297,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  m5 desafio Rafael Brustolin.vcxproj -> C:\Users\I508464\Documents\GitHub\AtividadesCG\m5 desafio Rafael Brustolin\x64\Debug\m5 desafio Rafael Brustolin.exe
