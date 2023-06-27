@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\I508464\source\repos\M6 desafio Rafael Brustolin\M6 desafio Rafael Brustolin\Curve.h(23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\I508464\source\repos\M6 desafio Rafael Brustolin\M6 desafio Rafael Brustolin\Source.cpp(41,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\I508464\source\repos\M6 desafio Rafael Brustolin\M6 desafio Rafael Brustolin\Source.cpp(156,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\I508464\source\repos\M6 desafio Rafael Brustolin\M6 desafio Rafael Brustolin\Source.cpp(159,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\I508464\source\repos\M6 desafio Rafael Brustolin\M6 desafio Rafael Brustolin\Source.cpp(180,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\I508464\source\repos\M6 desafio Rafael Brustolin\M6 desafio Rafael Brustolin\Source.cpp(218,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\I508464\source\repos\M6 desafio Rafael Brustolin\M6 desafio Rafael Brustolin\Source.cpp(324,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\I508464\source\repos\M6 desafio Rafael Brustolin\M6 desafio Rafael Brustolin\Source.cpp(328,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\I508464\source\repos\M6 desafio Rafael Brustolin\M6 desafio Rafael Brustolin\Source.cpp(331,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  M6 desafio Rafael Brustolin.vcxproj -> C:\Users\I508464\source\repos\M6 desafio Rafael Brustolin\x64\Debug\M6 desafio Rafael Brustolin.exe
