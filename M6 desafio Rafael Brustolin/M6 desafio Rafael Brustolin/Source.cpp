@@ -452,20 +452,16 @@ int loadTexture(string path)
 }
 vector<glm::vec3> generateControlPointsSet(string path)
 {
-	vector <glm::vec3> controlPoints;
+	vector <glm::vec3> aux;
 	string line;
 	ifstream configFile(path);
-
 	while (getline(configFile, line))
 	{
 		istringstream iss(line);
-
 		float x, y, z;
 		iss >> x >> y >> z;
-		controlPoints.push_back(glm::vec3(x, y, z));
+		aux.push_back(glm::vec3(x, y, z));
 	}
-
 	configFile.close();
-
-	return controlPoints;
+	return aux;
 }
