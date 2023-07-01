@@ -1,0 +1,35 @@
+﻿  glad.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\I508464\vcpkg\installed\x64-windows\include\glad\glad.h(32,1): message : see previous definition of 'APIENTRY'
+  Shader.cpp
+  stb_image.cpp
+  Bezier.cpp
+C:\Users\I508464\Downloads\AtividadesCG-main (4)\AtividadesCG-main\Projeto Final - GB\HelloTextures\Curve.h(23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\I508464\Downloads\AtividadesCG-main (4)\AtividadesCG-main\Projeto Final - GB\HelloTextures\Bezier.cpp(15,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\I508464\Downloads\AtividadesCG-main (4)\AtividadesCG-main\Projeto Final - GB\HelloTextures\Bezier.cpp(19,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CatmullRom.cpp
+C:\Users\I508464\Downloads\AtividadesCG-main (4)\AtividadesCG-main\Projeto Final - GB\HelloTextures\Curve.h(23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\I508464\Downloads\AtividadesCG-main (4)\AtividadesCG-main\Projeto Final - GB\HelloTextures\CatmullRom.cpp(14,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\I508464\Downloads\AtividadesCG-main (4)\AtividadesCG-main\Projeto Final - GB\HelloTextures\CatmullRom.cpp(18,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Curve.cpp
+C:\Users\I508464\Downloads\AtividadesCG-main (4)\AtividadesCG-main\Projeto Final - GB\HelloTextures\Curve.h(23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\I508464\Downloads\AtividadesCG-main (4)\AtividadesCG-main\Projeto Final - GB\HelloTextures\Curve.cpp(16,51): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Hermite.cpp
+C:\Users\I508464\Downloads\AtividadesCG-main (4)\AtividadesCG-main\Projeto Final - GB\HelloTextures\Curve.h(23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\I508464\Downloads\AtividadesCG-main (4)\AtividadesCG-main\Projeto Final - GB\HelloTextures\Hermite.cpp(14,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\I508464\Downloads\AtividadesCG-main (4)\AtividadesCG-main\Projeto Final - GB\HelloTextures\Hermite.cpp(18,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Mesh.cpp
+C:\Users\I508464\Downloads\AtividadesCG-main (4)\AtividadesCG-main\Projeto Final - GB\HelloTextures\Curve.h(23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\I508464\Downloads\AtividadesCG-main (4)\AtividadesCG-main\Projeto Final - GB\HelloTextures\Mesh.cpp(73,52): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Origem.cpp
+C:\Users\I508464\Downloads\AtividadesCG-main (4)\AtividadesCG-main\Projeto Final - GB\HelloTextures\Curve.h(23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Camera.cpp
+C:\Users\I508464\Downloads\AtividadesCG-main (4)\AtividadesCG-main\Projeto Final - GB\HelloTextures\Camera.cpp(30,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\I508464\Downloads\AtividadesCG-main (4)\AtividadesCG-main\Projeto Final - GB\HelloTextures\Camera.cpp(31,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\I508464\Downloads\AtividadesCG-main (4)\AtividadesCG-main\Projeto Final - GB\HelloTextures\Camera.cpp(35,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\I508464\Downloads\AtividadesCG-main (4)\AtividadesCG-main\Projeto Final - GB\HelloTextures\Camera.cpp(36,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\I508464\Downloads\AtividadesCG-main (4)\AtividadesCG-main\Projeto Final - GB\HelloTextures\Camera.cpp(38,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\I508464\Downloads\AtividadesCG-main (4)\AtividadesCG-main\Projeto Final - GB\HelloTextures\Camera.cpp(39,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\I508464\Downloads\AtividadesCG-main (4)\AtividadesCG-main\Projeto Final - GB\HelloTextures\Camera.cpp(89,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  HelloTextures.vcxproj -> C:\Users\I508464\Downloads\AtividadesCG-main (4)\AtividadesCG-main\Projeto Final - GB\x64\Debug\HelloTextures.exe
