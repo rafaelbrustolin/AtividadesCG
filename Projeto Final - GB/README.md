@@ -1,4 +1,4 @@
-# Computação Gráfica - Gabriel Hoffmann
+# Computação Gráfica - Gabriel Hoffmann e Rafael Brustolin
 
 ## Visualizador de Cenas 3D
 
